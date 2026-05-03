@@ -19,6 +19,8 @@ Modern, interactive portfolio built with React and Tailwind CSS. The UI emphasiz
 - react-intersection-observer
 - react-parallax-tilt
 
+## Link : https://nayan-bhadane-portfolio.vercel.app/
+
 ## Setup
 
 Install dependencies:
